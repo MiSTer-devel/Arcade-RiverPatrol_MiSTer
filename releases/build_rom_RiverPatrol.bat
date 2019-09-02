@@ -1,7 +1,7 @@
 @echo off
 
-set    zip=rpatrolb.zip
-set ifiles=rp1.4l+rp2.4j+rp3.4f+rp4.4e+rp5.4c+rp6.6n+rp7.6l+rp8.6k+rp9.6h+rp11.6c+rp10.6a
+set    zip=rpatroln.zip
+set ifiles=1_2.3k+2_2.3l+3_2.3n+4_2.3p+5_2.3r+6.6l.2732+7.6p.2732+9.2t+8.2s
 
 set  ofile=a.rpatrol.rom
 
