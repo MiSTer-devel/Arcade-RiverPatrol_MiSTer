@@ -5,6 +5,7 @@
 	<mratimestamp>20200427161917</mratimestamp>
 	<year>1981</year>
 	<manufacturer>Orca</manufacturer>
+	<category>Racing</category>
 	<rbf>riverpatrol</rbf>
 	<rom index="0" zip="rpatrol.zip|rpatroln.zip" md5="91a13a2b5d567b18edba8752438c9d14">
 		<part crc="33b01c90" name="1_2.3k"/>
